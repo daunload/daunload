@@ -1,6 +1,4 @@
-
-
-#👋 Hi, there! I'm **Daun Seo**
+# 👋 Hi, there! I'm **Daun Seo**
 
 ## 📕 Latest Blog Posts
 <a href="https://seodaun.tistory.com/10">LV.1 유연근무제 Javascript</a></br>
