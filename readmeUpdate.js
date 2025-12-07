@@ -1,9 +1,7 @@
 import { writeFileSync } from "node:fs";
 import Parser from "rss-parser";
 
-const staticContent = `
-
-#👋 Hi, there! I'm **Daun Seo**
+const staticContent = `# 👋 Hi, there! I'm **Daun Seo**
 
 ## 📕 Latest Blog Posts
 `;
